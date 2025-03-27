@@ -1,0 +1,17 @@
+{
+  "name": "aqa-js-course",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "colorPrint": "node intro_js/colorPrint.js",
+    "test": "npm run colorPrint",
+    "start": "node intro_js/file_2.js "
+  },
+  "author": "Oleksii Komliev",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
